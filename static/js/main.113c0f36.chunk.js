@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_sum=this.webpackJsonpreact_sum||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);s(1);var c=s(3),n=s.n(c),b=s(0),j=function(e){var t=e.a,s=e.b;return Object(b.jsxs)("p",{children:["Sum of ",t||0," and ",s||0," is ",t+s||0]})},r=function(){return Object(b.jsxs)(b.Fragment,{children:[Object(b.jsx)(j,{a:2,b:3}),Object(b.jsx)(j,{a:5,b:-5}),Object(b.jsx)(j,{a:10,b:0}),Object(b.jsx)(j,{a:0,b:5}),Object(b.jsx)(j,{a:0,b:0})]})};n.a.render(Object(b.jsx)(r,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.113c0f36.chunk.js.map
